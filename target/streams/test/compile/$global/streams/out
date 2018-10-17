@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/cyp/IG/tests/kata_bowling_scala/src/test/scala/bowling/BowlingSpec.scala:70:20: No implicit view available from org.scalatest.Assertion => org.scalacheck.Prop.[0m
+[0m[[0m[31merror[0m] [0m[0m    forAll(rollGen){ (n:Int)=>[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

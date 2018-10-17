@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/cyp/IG/tests/kata_bowling_scala/src/main/scala/bowling/Bowling.scala:79:23: ':' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    def genFrame(roll1): Frame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/cyp/IG/tests/kata_bowling_scala/src/main/scala/bowling/Bowling.scala:83:1: identifier expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
